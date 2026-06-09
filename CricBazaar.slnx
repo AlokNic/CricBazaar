@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/CricBazaar.Api/CricBazaar.Api.csproj" />
+    <Project Path="src/CricBazaar.Application/CricBazaar.Application.csproj" />
+    <Project Path="src/CricBazaar.Domain/CricBazaar.Domain.csproj" />
+    <Project Path="src/CricBazaar.Infrastructure/CricBazaar.Infrastructure.csproj" />
+  </Folder>
+</Solution>

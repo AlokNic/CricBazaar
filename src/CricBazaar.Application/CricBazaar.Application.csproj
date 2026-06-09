@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <PackageReference Include="BCrypt.Net-Next" Version="4.2.0" />
+    <PackageReference Include="FluentValidation" Version="11.11.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CricBazaar.Domain\CricBazaar.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="DTOs\Competitions\" />
+    <Folder Include="DTOs\Matches\" />
+    <Folder Include="DTOs\Commentary\" />
+    <Folder Include="DTOs\Scoring\" />
+    <Folder Include="DTOs\Venues\" />
+    <Folder Include="Validators\Countries\" />
+    <Folder Include="Validators\Users\" />
+  </ItemGroup>
+
+  <PropertyGroup>
+	  <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+</Project>

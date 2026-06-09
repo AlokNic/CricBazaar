@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hnd0rWEa+d8=",
+  "success": true,
+  "projectFilePath": "E:\\CricBazaar\\src\\CricBazaar.Application\\CricBazaar.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mr Alok Shukla\\.nuget\\packages\\bcrypt.net-next\\4.2.0\\bcrypt.net-next.4.2.0.nupkg.sha512",
+    "C:\\Users\\Mr Alok Shukla\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}
